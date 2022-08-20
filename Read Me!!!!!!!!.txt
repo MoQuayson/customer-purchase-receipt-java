@@ -1,0 +1,14 @@
+Please change the author name in the source code!!!!!!!!!!!
+
+
+1. The project is Purchase receipt for customers after buying products for a boutique
+2. The Proceed button provides the total charges 
+3. The Save To Text button saves the customers' product details alongside his/her name.
+4. The Clear button clears all controls inputs
+5. The Exit Button closes the Application
+6. The ProductSelect() method gives the prices of the products selected
+7. The SaveDetails() method saves the customers' product details in a file
+8. The FileWriter class creates the file 
+9. The PrintWriter class saves the details in the file 
+10. The file is saved in the Project folder
+
